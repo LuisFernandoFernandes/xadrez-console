@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     public class Posicao
     {
