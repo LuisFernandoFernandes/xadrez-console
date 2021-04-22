@@ -25,4 +25,3 @@ namespace xadrez_console
         }
     }
 }
-
